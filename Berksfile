@@ -1,0 +1,13 @@
+source 'https://supermarket.getchef.com'
+
+cookbook 'apt'
+cookbook 'yum'
+cookbook 'yum-epel'
+cookbook 'build-essential'
+cookbook 'apache2'
+cookbook 'chef-sugar'
+cookbook 'iptables'
+cookbook 'logrotate'
+cookbook 'openssl'
+cookbook 'postgresql'
+cookbook 'python'
